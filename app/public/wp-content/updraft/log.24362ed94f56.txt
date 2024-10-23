@@ -1,0 +1,482 @@
+0000.001 (0) Opened log file at time: Wed, 23 Oct 2024 07:36:02 +0000 on http://hk-translation.local
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.6 WP: 6.6.2 PHP: 8.1.29 (cgi-fcgi, Windows NT K-PC 10.0 build 22631 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.2M | 14M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 34983.9 MB
+0000.018 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.023 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.032 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1729613008, seconds_ago=55954)
+0000.046 (0) Set semaphore last lock (fd) time to 2024-10-23 07:36:02
+0000.050 (0) Semaphore lock (fd) complete
+0000.112 (0) Backup run: resumption=0, nonce=24362ed94f56, file_nonce=24362ed94f56 begun at=1729668962 (1s ago), job type=backup
+0000.120 (0) Scheduling a resumption (1) after 367 seconds (1729669330) in case this run gets aborted
+0000.131 (0) Checking if we have a zip executable available
+0000.140 (0) Creation of backups of directories: beginning
+0000.155 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.021 (0) Total entities for the zip file: 1945 directories, 8775 files (0 skipped as non-modified), 157.5 MB
+0007.037 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.286 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 100 files added (on-disk size: 340 KB)
+0007.348 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 200 files added (on-disk size: 340 KB)
+0007.420 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 300 files added (on-disk size: 340 KB)
+0007.487 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 400 files added (on-disk size: 340 KB)
+0007.546 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 500 files added (on-disk size: 340 KB)
+0007.603 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 600 files added (on-disk size: 340 KB)
+0007.624 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.6 MB, 8775 files batched, 625 (626) added so far); re-opening (prior size: 340 KB)
+0044.725 (0) A useful amount of data was added after this amount of zip processing: 37.6 s (normalised: 36.8 s, rate: 696.6 KB/s)
+0044.775 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 700 files added (on-disk size: 6735.5 KB)
+0044.818 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 800 files added (on-disk size: 6735.5 KB)
+0044.860 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 900 files added (on-disk size: 6735.5 KB)
+0044.912 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1000 files added (on-disk size: 6735.5 KB)
+0044.952 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1100 files added (on-disk size: 6735.5 KB)
+0044.980 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 8775 files batched, 539 (1165) added so far); re-opening (prior size: 6735.5 KB)
+0064.821 (0) A useful amount of data was added after this amount of zip processing: 20.7 s (normalised: 20.7 s, rate: 1234.6 KB/s)
+0064.859 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1200 files added (on-disk size: 13798.2 KB)
+0064.898 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1300 files added (on-disk size: 13798.2 KB)
+0064.935 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1400 files added (on-disk size: 13798.2 KB)
+0064.971 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1500 files added (on-disk size: 13798.2 KB)
+0065.010 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1600 files added (on-disk size: 13798.2 KB)
+0065.049 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1700 files added (on-disk size: 13798.2 KB)
+0065.084 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1800 files added (on-disk size: 13798.2 KB)
+0065.124 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 1900 files added (on-disk size: 13798.2 KB)
+0065.166 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2000 files added (on-disk size: 13798.2 KB)
+0065.205 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2100 files added (on-disk size: 13798.2 KB)
+0065.238 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.9 MB, 8775 files batched, 1001 (2166) added so far); re-opening (prior size: 13798.2 KB)
+0097.714 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2200 files added (on-disk size: 16501.6 KB)
+0097.758 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2300 files added (on-disk size: 16501.6 KB)
+0097.798 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2400 files added (on-disk size: 16501.6 KB)
+0097.839 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2500 files added (on-disk size: 16501.6 KB)
+0097.885 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2600 files added (on-disk size: 16501.6 KB)
+0097.918 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2700 files added (on-disk size: 16501.6 KB)
+0097.956 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2800 files added (on-disk size: 16501.6 KB)
+0097.991 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 2900 files added (on-disk size: 16501.6 KB)
+0098.024 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3000 files added (on-disk size: 16501.6 KB)
+0098.057 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3100 files added (on-disk size: 16501.6 KB)
+0098.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.2 MB, 8775 files batched, 1001 (3167) added so far); re-opening (prior size: 16501.6 KB)
+0136.132 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3200 files added (on-disk size: 20087 KB)
+0136.165 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3300 files added (on-disk size: 20087 KB)
+0136.196 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3400 files added (on-disk size: 20087 KB)
+0136.231 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3500 files added (on-disk size: 20087 KB)
+0136.273 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3600 files added (on-disk size: 20087 KB)
+0136.303 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3700 files added (on-disk size: 20087 KB)
+0136.334 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3800 files added (on-disk size: 20087 KB)
+0136.366 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 3900 files added (on-disk size: 20087 KB)
+0136.397 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 8775 files batched, 831 (3998) added so far); re-opening (prior size: 20087 KB)
+0169.867 (0) A useful amount of data was added after this amount of zip processing: 34.8 s (normalised: 34.6 s, rate: 739.4 KB/s)
+0169.914 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4000 files added (on-disk size: 27506.2 KB)
+0169.946 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4100 files added (on-disk size: 27506.2 KB)
+0169.979 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4200 files added (on-disk size: 27506.2 KB)
+0170.028 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4300 files added (on-disk size: 27506.2 KB)
+0170.068 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4400 files added (on-disk size: 27506.2 KB)
+0170.121 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4500 files added (on-disk size: 27506.2 KB)
+0170.164 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4600 files added (on-disk size: 27506.2 KB)
+0170.198 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4700 files added (on-disk size: 27506.2 KB)
+0170.232 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4800 files added (on-disk size: 27506.2 KB)
+0170.266 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 4900 files added (on-disk size: 27506.2 KB)
+0170.300 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.9 MB, 8775 files batched, 1001 (4999) added so far); re-opening (prior size: 27506.2 KB)
+0201.840 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5000 files added (on-disk size: 32983.1 KB)
+0201.876 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5100 files added (on-disk size: 32983.1 KB)
+0201.912 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5200 files added (on-disk size: 32983.1 KB)
+0201.950 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5300 files added (on-disk size: 32983.1 KB)
+0201.996 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5400 files added (on-disk size: 32983.1 KB)
+0202.042 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5500 files added (on-disk size: 32983.1 KB)
+0202.095 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5600 files added (on-disk size: 32983.1 KB)
+0202.149 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5700 files added (on-disk size: 32983.1 KB)
+0202.187 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5800 files added (on-disk size: 32983.1 KB)
+0202.223 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 5900 files added (on-disk size: 32983.1 KB)
+0202.261 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.7 MB, 8775 files batched, 1001 (6000) added so far); re-opening (prior size: 32983.1 KB)
+0256.730 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6000 files added (on-disk size: 37423.8 KB)
+0256.823 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6100 files added (on-disk size: 37423.8 KB)
+0256.887 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6200 files added (on-disk size: 37423.8 KB)
+0256.950 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6300 files added (on-disk size: 37423.8 KB)
+0256.995 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6400 files added (on-disk size: 37423.8 KB)
+0257.044 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6500 files added (on-disk size: 37423.8 KB)
+0257.076 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6600 files added (on-disk size: 37423.8 KB)
+0257.109 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6700 files added (on-disk size: 37423.8 KB)
+0257.140 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6800 files added (on-disk size: 37423.8 KB)
+0257.178 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 6900 files added (on-disk size: 37423.8 KB)
+0257.212 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7000 files added (on-disk size: 37423.8 KB)
+0257.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.4 MB, 8775 files batched, 1001 (7001) added so far); re-opening (prior size: 37423.8 KB)
+0279.643 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7100 files added (on-disk size: 38874.1 KB)
+0279.684 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7200 files added (on-disk size: 38874.1 KB)
+0279.718 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7300 files added (on-disk size: 38874.1 KB)
+0279.753 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7400 files added (on-disk size: 38874.1 KB)
+0279.787 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7500 files added (on-disk size: 38874.1 KB)
+0279.822 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7600 files added (on-disk size: 38874.1 KB)
+0279.855 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7700 files added (on-disk size: 38874.1 KB)
+0279.889 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7800 files added (on-disk size: 38874.1 KB)
+0279.922 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 7900 files added (on-disk size: 38874.1 KB)
+0279.956 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8000 files added (on-disk size: 38874.1 KB)
+0279.961 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.3 MB, 8775 files batched, 1001 (8002) added so far); re-opening (prior size: 38874.1 KB)
+0310.427 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8100 files added (on-disk size: 48022.6 KB)
+0310.471 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8200 files added (on-disk size: 48022.6 KB)
+0310.510 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8300 files added (on-disk size: 48022.6 KB)
+0310.551 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8400 files added (on-disk size: 48022.6 KB)
+0310.589 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8500 files added (on-disk size: 48022.6 KB)
+0310.628 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8600 files added (on-disk size: 48022.6 KB)
+0310.667 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.tmp: 8700 files added (on-disk size: 48022.6 KB)
+0343.693 (0) The time we have been running (343.7) is approaching the resumption interval (367) - increasing resumption interval to 374
+0343.699 (0) The scheduled resumption is within 45 seconds - will reschedule
+0343.706 (0) Rescheduling resumption 1: moving to 419 seconds from now (1729669725)
+0343.718 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 374 + 45 = 419
+0343.850 (0) Creating zip file manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.list-temp.tmp)
+0343.906 (0) Successfully created zip file manifest (size: 733139)
+0344.613 (0) Created plugins zip (0) - 49561.1 KB in 344.4 s (143.9 KB/s) (sha1: 17d2da3675450a7d3ef05b0581bf79a9b6a4062b, sha256: 9e8057b660e0036270ef1fd48af862455ec91c46ca86175df45eb9a78a8ce614)
+0344.629 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0344.631 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-efd40a78454925e1fafc803976ab7959)
+0346.261 (0) Google Drive: quota usage: used=134.3 MB, total=15360 MB, available=15225.7 MB
+0346.395 (0) Google Drive: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip: Attempting to upload to Google Drive (into folder id: 14wuY523tAv8pgbMlcxpcqK0D--BwK9dQ)
+0347.315 (0) Googledrive chunked upload: 2.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 11.3 / 16)
+0347.839 (0) Googledrive chunked upload: 6.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 11.3 / 16)
+0348.776 (0) Googledrive chunked upload: 14.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 11.3 / 16)
+0350.263 (0) Googledrive chunked upload: 31 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 11.3 / 16)
+0352.306 (0) Googledrive chunked upload: 64.1 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 11.3 / 16)
+0355.791 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0355.803 (0) Google Drive: OK: Archive backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip uploaded in 9.4 seconds
+0355.808 (0) Recording as successfully uploaded: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip
+0355.860 (0) Deleting local file: backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip: OK
+0355.883 (0) Beginning creation of dump of themes (split every: 400 MB)
+0356.269 (0) Total entities for the zip file: 139 directories, 767 files (0 skipped as non-modified), 18.8 MB
+0356.317 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0356.362 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0356.410 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0356.470 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0356.541 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0356.646 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0356.782 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0387.225 (0) Creating zip file manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.list-temp.tmp)
+0387.232 (0) Successfully created zip file manifest (size: 53616)
+0387.333 (0) Created themes zip (0) - 5911 KB in 31.4 s (188 KB/s) (sha1: 047a56c07d61a8f4dd5b191d051d6e3bfb680601, sha256: 194fbf67cdc5ddb554ca7ca2f519796f4493a346e9485fb8387a95474c4c85b0)
+0387.344 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0387.351 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-efd40a78454925e1fafc803976ab7959)
+0387.865 (0) Google Drive: quota usage: used=182.7 MB, total=15360 MB, available=15177.3 MB
+0387.870 (0) Google Drive: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip: Attempting to upload to Google Drive (into folder id: 14wuY523tAv8pgbMlcxpcqK0D--BwK9dQ)
+0388.675 (0) Googledrive chunked upload: 17.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9.9 / 16)
+0389.196 (0) The time we have been running (389.2) is approaching the resumption interval (419) - increasing resumption interval to 420
+0389.205 (0) Googledrive chunked upload: 52 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 9.9 / 16)
+0391.064 (0) The time we have been running (391) is approaching the resumption interval (420) - increasing resumption interval to 422
+0391.070 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0391.080 (0) Google Drive: OK: Archive backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip uploaded in 3.21 seconds
+0391.084 (0) Recording as successfully uploaded: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip
+0391.140 (0) Deleting local file: backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip: OK
+0391.154 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0391.156 (0) Looking for candidates to backup in: C:\Users\Utilisateur\Local Sites\hk-translation\app\public/wp-content/uploads
+0391.159 (0) finding files: 2016: adding to list (1)
+0391.161 (0) finding files: 2022: adding to list (2)
+0391.164 (0) finding files: 2024: adding to list (3)
+0391.168 (0) finding files: backup: skipping: excluded by options (glob)
+0391.171 (0) finding files: elementor: adding to list (4)
+0391.174 (0) finding files: oceanwp-webfonts: adding to list (5)
+0391.177 (0) finding files: oceanwp-webfonts-css: adding to list (6)
+0391.180 (0) finding files: squirrly: adding to list (7)
+0391.184 (0) finding files: wpforms: adding to list (8)
+0391.187 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0391.251 (0) Total entities for the zip file: 17 directories, 136 files (0 skipped as non-modified), 10.3 MB
+0391.308 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0392.784 (0) The time we have been running (392.8) is approaching the resumption interval (422) - increasing resumption interval to 423
+0392.790 (0) Creating zip file manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip.list-temp.tmp)
+0392.794 (0) Successfully created zip file manifest (size: 8054)
+0392.886 (0) Created uploads zip (0) - 4653.6 KB in 1.7 s (2750.2 KB/s) (sha1: 3229258f01b9dc81569ee3819b9adb05df52563c, sha256: a246f43b25887d8045f3c39bad3394841796fea121c9d1aa53f36477681995be)
+0392.898 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0392.901 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-efd40a78454925e1fafc803976ab7959)
+0393.333 (0) Google Drive: quota usage: used=188.4 MB, total=15360 MB, available=15171.6 MB
+0393.337 (0) Google Drive: backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip: Attempting to upload to Google Drive (into folder id: 14wuY523tAv8pgbMlcxpcqK0D--BwK9dQ)
+0394.233 (0) The time we have been running (394.2) is approaching the resumption interval (423) - increasing resumption interval to 425
+0394.241 (0) Googledrive chunked upload: 22 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9.8 / 16)
+0394.757 (0) Googledrive chunked upload: 66 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 9.8 / 16)
+0396.709 (0) The time we have been running (396.5) is approaching the resumption interval (425) - increasing resumption interval to 427
+0396.718 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0396.734 (0) Google Drive: OK: Archive backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip uploaded in 3.39 seconds
+0396.737 (0) Recording as successfully uploaded: backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip
+0396.749 (0) Deleting local file: backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip: OK
+0396.764 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0396.768 (0) Does not exist: C:\Users\Utilisateur\Local Sites\hk-translation\app\public/wp-content/mu-plugins
+0396.770 (0) There are no mu-plugins to backup. Will not raise an error.
+0396.773 (0) mu-plugins: create_zip returned an error
+0396.781 (0) Beginning backup of other directories found in the content directory (index: 0)
+0396.784 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0396.787 (0) Looking for candidates to backup in: C:\Users\Utilisateur\Local Sites\hk-translation\app\public/wp-content
+0396.791 (0) finding files: index.php: adding to list (1)
+0396.794 (0) finding files: languages: adding to list (2)
+0396.797 (0) finding files: plugins: skipping: this is the plugins directory
+0396.800 (0) finding files: themes: skipping: this is the themes directory
+0396.802 (0) finding files: updraft: skipping: this is the updraft directory
+0396.805 (0) finding files: upgrade: skipping: excluded by options
+0396.808 (0) finding files: uploads: skipping: this is the uploads directory
+0396.891 (0) Total entities for the zip file: 3 directories, 173 files (0 skipped as non-modified), 9.9 MB
+0396.954 (0) Zip: backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0401.423 (0) The time we have been running (401.4) is approaching the resumption interval (427) - increasing resumption interval to 432
+0401.448 (0) Creating zip file manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip.list-temp.tmp)
+0401.456 (0) Successfully created zip file manifest (size: 11552)
+0401.526 (0) Created others zip (0) - 2776.5 KB in 4.7 s (589.7 KB/s) (sha1: 3f09751cc4347a4b9c13094efc124c12d9d4a5a0, sha256: 9db4720f0b68224da704cc30947893c991a26222f5d6c52c7f0d7d4c6884de71)
+0401.535 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0401.540 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-efd40a78454925e1fafc803976ab7959)
+0402.010 (0) Google Drive: quota usage: used=193 MB, total=15360 MB, available=15167 MB
+0402.014 (0) Google Drive: backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip: Attempting to upload to Google Drive (into folder id: 14wuY523tAv8pgbMlcxpcqK0D--BwK9dQ)
+0402.856 (0) The time we have been running (402.8) is approaching the resumption interval (432) - increasing resumption interval to 433
+0402.863 (0) Googledrive chunked upload: 36.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9.8 / 16)
+0405.450 (0) The time we have been running (405.4) is approaching the resumption interval (433) - increasing resumption interval to 436
+0405.457 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0405.471 (0) Google Drive: OK: Archive backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip uploaded in 3.45 seconds
+0405.475 (0) Recording as successfully uploaded: backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip
+0405.486 (0) Deleting local file: backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip: OK
+0405.521 (0) Saving backup status to database (elements: 8)
+0405.531 (0) Beginning creation of database dump (WordPress DB)
+0405.538 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0405.560 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+0406.478 (0) Binary mysqldump: error (code: 2)
+0406.496 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump.exe
+0406.706 (0) Binary mysqldump: error (code: 2)
+0406.753 (0) Table wp_options: Total expected rows (via COUNT): 387
+0406.756 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0406.817 (0) Table wp_options: Rows added in this batch (next record: 2354): 383 (uncompressed bytes in this segment=1029600) in 0.07 seconds
+0406.837 (0) The time we have been running (406.8) is approaching the resumption interval (436) - increasing resumption interval to 437
+0406.854 (0) Table wp_options: finishing file(s) (2, 125.9 KB)
+0406.872 (0) Table wp_users: Total expected rows (via COUNT): 1
+0406.875 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0406.891 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1392) in 0.02 seconds
+0406.913 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0406.935 (0) Table wp_usermeta: Total expected rows (via COUNT): 32
+0406.939 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0406.950 (0) Table wp_usermeta: Rows added in this batch (next record: 32): 32 (uncompressed bytes in this segment=4161) in 0.02 seconds
+0406.973 (0) Table wp_usermeta: finishing file(s) (2, 1.8 KB)
+0406.994 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 28
+0406.998 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0407.004 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 69): 28 (uncompressed bytes in this segment=13146) in 0.02 seconds
+0407.024 (0) The time we have been running (407) is approaching the resumption interval (437) - increasing resumption interval to 438
+0407.040 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.7 KB)
+0407.058 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0407.066 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0407.085 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0407.105 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0407.108 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0407.119 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=706) in 0.02 seconds
+0407.139 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0407.161 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 72
+0407.167 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0407.179 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 72): 72 (uncompressed bytes in this segment=7217) in 0.02 seconds
+0407.204 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.2 KB)
+0407.244 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0407.257 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.02 seconds
+0407.293 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0407.314 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0407.318 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0407.343 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2152) in 0.03 seconds
+0407.368 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0407.390 (0) Table wp_imagify_files: Total expected rows (via COUNT): 0
+0407.402 (0) Table wp_imagify_files: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1516) in 0.02 seconds
+0407.425 (0) Table wp_imagify_files: finishing file(s) (2, 0.6 KB)
+0407.445 (0) Table wp_imagify_folders: Total expected rows (via COUNT): 0
+0407.449 (0) Table wp_imagify_folders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.01 seconds
+0407.487 (0) Table wp_imagify_folders: finishing file(s) (2, 0.4 KB)
+0407.506 (0) Table wp_links: Total expected rows (via COUNT): 0
+0407.516 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.02 seconds
+0407.556 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0407.871 (0) Table wp_postmeta: Total expected rows (approximate): 2182
+0408.367 (0) Table wp_postmeta: Rows added in this batch (next record: 3089): 2131 (uncompressed bytes in this segment=8409772) in 0.78 seconds
+0408.391 (0) The time we have been running (408.4) is approaching the resumption interval (438) - increasing resumption interval to 439
+0408.409 (0) Table wp_postmeta: finishing file(s) (2, 561.3 KB)
+0408.481 (0) Table wp_posts: Total expected rows (via COUNT): 324
+0408.485 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.539 (0) Table wp_posts: Rows added in this batch (next record: 904): 324 (uncompressed bytes in this segment=2280117) in 0.11 seconds
+0408.563 (0) Table wp_posts: finishing file(s) (2, 59.3 KB)
+0408.574 (0) Table wp_term_relationships: Total expected rows (approximate): 26
+0408.582 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 26 (uncompressed bytes in this segment=1050) in 0.01 seconds
+0408.594 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0408.611 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 9
+0408.613 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.619 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1203) in 0.02 seconds
+0408.637 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0408.657 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0408.665 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.02 seconds
+0408.683 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0408.695 (0) Table wp_terms: Total expected rows (via COUNT): 9
+0408.698 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.704 (0) Table wp_terms: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=977) in 0.01 seconds
+0408.719 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0408.735 (0) Table wp_blc_filters: Total expected rows (via COUNT): 0
+0408.748 (0) Table wp_blc_filters: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=537) in 0.02 seconds
+0408.767 (0) Table wp_blc_filters: finishing file(s) (2, 0.3 KB)
+0408.780 (0) Table wp_blc_instances: Total expected rows (via COUNT): 2
+0408.783 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.791 (0) Table wp_blc_instances: Rows added in this batch (next record: 673): 2 (uncompressed bytes in this segment=1375) in 0.02 seconds
+0408.807 (0) Table wp_blc_instances: finishing file(s) (2, 0.5 KB)
+0408.820 (0) Table wp_blc_links: Total expected rows (via COUNT): 2
+0408.823 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0408.829 (0) Table wp_blc_links: Rows added in this batch (next record: 33): 2 (uncompressed bytes in this segment=4398) in 0.01 seconds
+0408.845 (0) Table wp_blc_links: finishing file(s) (2, 1.3 KB)
+0408.859 (0) Table wp_blc_synch: Total expected rows (approximate): 1
+0408.868 (0) Table wp_blc_synch: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=710) in 0.01 seconds
+0408.885 (0) Table wp_blc_synch: finishing file(s) (2, 0.4 KB)
+0408.899 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0408.902 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=529) in 0.01 seconds
+0408.924 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0408.941 (0) Table wp_hustle_entries: Total expected rows (via COUNT): 0
+0408.946 (0) Table wp_hustle_entries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=703) in 0.01 seconds
+0408.967 (0) Table wp_hustle_entries: finishing file(s) (2, 0.4 KB)
+0408.990 (0) Table wp_hustle_entries_meta: Total expected rows (via COUNT): 0
+0408.998 (0) Table wp_hustle_entries_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=896) in 0.02 seconds
+0409.013 (0) The time we have been running (409) is approaching the resumption interval (439) - increasing resumption interval to 440
+0409.030 (0) Table wp_hustle_entries_meta: finishing file(s) (2, 0.4 KB)
+0409.042 (0) Table wp_hustle_modules: Total expected rows (via COUNT): 2
+0409.047 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.056 (0) Table wp_hustle_modules: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=922) in 0.02 seconds
+0409.073 (0) Table wp_hustle_modules: finishing file(s) (2, 0.5 KB)
+0409.093 (0) Table wp_hustle_modules_meta: Total expected rows (via COUNT): 17
+0409.096 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.103 (0) Table wp_hustle_modules_meta: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=154453) in 0.02 seconds
+0409.123 (0) Table wp_hustle_modules_meta: finishing file(s) (2, 19.6 KB)
+0409.134 (0) Table wp_hustle_tracking: Total expected rows (via COUNT): 2
+0409.136 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.138 (0) Table wp_hustle_tracking: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1438) in 0.01 seconds
+0409.153 (0) Table wp_hustle_tracking: finishing file(s) (2, 0.6 KB)
+0409.165 (0) Table wp_qss: Total expected rows (via COUNT): 0
+0409.205 (0) Table wp_qss: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=839) in 0.04 seconds
+0409.223 (0) Table wp_qss: finishing file(s) (2, 0.4 KB)
+0409.239 (0) Table wp_seopress_content_analysis: Total expected rows (via COUNT): 2
+0409.241 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.250 (0) Table wp_seopress_content_analysis: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=7670) in 0.02 seconds
+0409.270 (0) Table wp_seopress_content_analysis: finishing file(s) (2, 1.9 KB)
+0409.288 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 25
+0409.291 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.298 (0) Table wp_wpforms_logs: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=3369) in 0.02 seconds
+0409.316 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.7 KB)
+0409.335 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0409.342 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.02 seconds
+0409.364 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0409.375 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0409.384 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1970) in 0.01 seconds
+0409.401 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0409.418 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0409.421 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0409.430 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=1041) in 0.02 seconds
+0409.453 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0409.456 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Utilisateur\Local Sites\hk-translation\app\public/wp-content/updraft/backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz (line 1925, C:\Users\Utilisateur\Local Sites\hk-translation\app\public\wp-content\plugins\updraftplus\backup.php)
+0409.463 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_options.table.tmpr2355.gz (1/34/fopen): adding to final database dump
+0409.471 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_options.table.gz (2/34/fopen): adding to final database dump
+0409.476 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_users.table.tmpr2.gz (3/34/fopen): adding to final database dump
+0409.481 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_users.table.gz (4/34/fopen): adding to final database dump
+0409.484 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_usermeta.table.tmpr33.gz (5/34/fopen): adding to final database dump
+0409.487 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_usermeta.table.gz (6/34/fopen): adding to final database dump
+0409.490 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_actions.table.tmpr70.gz (7/34/fopen): adding to final database dump
+0409.495 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_actions.table.gz (8/34/fopen): adding to final database dump
+0409.499 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/34/fopen): adding to final database dump
+0409.502 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_claims.table.gz (10/34/fopen): adding to final database dump
+0409.505 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/34/fopen): adding to final database dump
+0409.509 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_groups.table.gz (12/34/fopen): adding to final database dump
+0409.514 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_logs.table.tmpr73.gz (13/34/fopen): adding to final database dump
+0409.518 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_actionscheduler_logs.table.gz (14/34/fopen): adding to final database dump
+0409.521 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_commentmeta.table.tmpr0.gz (15/34/fopen): adding to final database dump
+0409.525 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_commentmeta.table.gz (16/34/fopen): adding to final database dump
+0409.529 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_comments.table.tmpr2.gz (17/34/fopen): adding to final database dump
+0409.533 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_comments.table.gz (18/34/fopen): adding to final database dump
+0409.536 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_imagify_files.table.tmpr0.gz (19/34/fopen): adding to final database dump
+0409.540 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_imagify_files.table.gz (20/34/fopen): adding to final database dump
+0409.545 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_imagify_folders.table.tmpr0.gz (21/34/fopen): adding to final database dump
+0409.551 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_imagify_folders.table.gz (22/34/fopen): adding to final database dump
+0409.565 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_links.table.tmpr0.gz (23/34/fopen): adding to final database dump
+0409.568 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_links.table.gz (24/34/fopen): adding to final database dump
+0409.571 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_postmeta.table.tmpr3090.gz (25/34/fopen): adding to final database dump
+0409.602 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_postmeta.table.gz (26/34/fopen): adding to final database dump
+0409.605 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_posts.table.tmpr905.gz (27/34/fopen): adding to final database dump
+0409.612 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_posts.table.gz (28/34/fopen): adding to final database dump
+0409.616 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_term_relationships.table.tmpr100001.gz (29/34/fopen): adding to final database dump
+0409.620 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_term_relationships.table.gz (30/34/fopen): adding to final database dump
+0409.623 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_term_taxonomy.table.tmpr10.gz (31/34/fopen): adding to final database dump
+0409.627 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_term_taxonomy.table.gz (32/34/fopen): adding to final database dump
+0409.631 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_termmeta.table.tmpr0.gz (33/34/fopen): adding to final database dump
+0409.635 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_termmeta.table.gz (34/34/fopen): adding to final database dump
+0409.637 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_terms.table.tmpr10.gz (35/34/fopen): adding to final database dump
+0409.640 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_terms.table.gz (36/34/fopen): adding to final database dump
+0409.643 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_filters.table.tmpr0.gz (37/34/fopen): adding to final database dump
+0409.648 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_filters.table.gz (38/34/fopen): adding to final database dump
+0409.652 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_instances.table.tmpr674.gz (39/34/fopen): adding to final database dump
+0409.656 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_instances.table.gz (40/34/fopen): adding to final database dump
+0409.659 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_links.table.tmpr34.gz (41/34/fopen): adding to final database dump
+0409.666 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_links.table.gz (42/34/fopen): adding to final database dump
+0409.668 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_synch.table.tmpr1001.gz (43/34/fopen): adding to final database dump
+0409.671 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_blc_synch.table.gz (44/34/fopen): adding to final database dump
+0409.674 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_e_events.table.tmpr0.gz (45/34/fopen): adding to final database dump
+0409.677 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_e_events.table.gz (46/34/fopen): adding to final database dump
+0409.683 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_entries.table.tmpr0.gz (47/34/fopen): adding to final database dump
+0409.687 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_entries.table.gz (48/34/fopen): adding to final database dump
+0409.690 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_entries_meta.table.tmpr0.gz (49/34/fopen): adding to final database dump
+0409.697 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_entries_meta.table.gz (50/34/fopen): adding to final database dump
+0409.701 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_modules.table.tmpr3.gz (51/34/fopen): adding to final database dump
+0409.704 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_modules.table.gz (52/34/fopen): adding to final database dump
+0409.707 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_modules_meta.table.tmpr18.gz (53/34/fopen): adding to final database dump
+0409.714 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_modules_meta.table.gz (54/34/fopen): adding to final database dump
+0409.718 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_tracking.table.tmpr3.gz (55/34/fopen): adding to final database dump
+0409.722 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_hustle_tracking.table.gz (56/34/fopen): adding to final database dump
+0409.726 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_qss.table.tmpr0.gz (57/34/fopen): adding to final database dump
+0409.734 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_qss.table.gz (58/34/fopen): adding to final database dump
+0409.737 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_seopress_content_analysis.table.tmpr3.gz (59/34/fopen): adding to final database dump
+0409.740 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_seopress_content_analysis.table.gz (60/34/fopen): adding to final database dump
+0409.747 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_logs.table.tmpr26.gz (61/34/fopen): adding to final database dump
+0409.751 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_logs.table.gz (62/34/fopen): adding to final database dump
+0409.754 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (63/34/fopen): adding to final database dump
+0409.758 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_payment_meta.table.gz (64/34/fopen): adding to final database dump
+0409.764 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_payments.table.tmpr0.gz (65/34/fopen): adding to final database dump
+0409.767 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_payments.table.gz (66/34/fopen): adding to final database dump
+0409.770 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_tasks_meta.table.tmpr8.gz (67/34/fopen): adding to final database dump
+0409.773 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db-table-wp_wpforms_tasks_meta.table.gz (68/34/fopen): adding to final database dump
+0409.786 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz: finished writing out complete database file (785.8 KB)
+0409.842 (0) Total database tables backed up: 34 (backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz, size: 804786, sha1: 8e725703e086b51870ac6f4c47ac643cbf645800, sha256: 3cc75476779a5bb45fbe92f028df7774b9504d199f6efd42c5fabf69876a9dc5)
+0409.867 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip: plugins: This file has already been successfully uploaded
+0409.870 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip: themes: This file has already been successfully uploaded
+0409.873 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip: uploads: This file has already been successfully uploaded
+0409.876 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip: others: This file has already been successfully uploaded
+0409.882 (0) backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz: db: This file has not yet been successfully uploaded: will queue
+0409.885 (0) Saving backup history. Total backup size: 62.2 MB
+0409.893 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0409.906 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0409.908 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-efd40a78454925e1fafc803976ab7959)
+0410.383 (0) Google Drive: quota usage: used=195.7 MB, total=15360 MB, available=15164.3 MB
+0410.387 (0) Google Drive: backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz: Attempting to upload to Google Drive (into folder id: 14wuY523tAv8pgbMlcxpcqK0D--BwK9dQ)
+0412.513 (0) The time we have been running (412.5) is approaching the resumption interval (440) - increasing resumption interval to 443
+0412.519 (0) Googledrive chunked upload: 100 % uploaded
+0412.528 (0) Google Drive: OK: Archive backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz uploaded in 2.14 seconds
+0412.531 (0) Recording as successfully uploaded: backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz
+0412.537 (0) Deleting local file: backup_2024-10-23-0736_HK_Translation_24362ed94f56-db.gz: OK
+0412.543 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0412.546 (0) Number of backup sets in history: 3; groups (db): 1
+0412.549 (0) Examining (for databases) backup set with group_id=0, nonce=24362ed94f56, datestamp=1729668962 (Oct 23 2024 07:36:02)
+0412.552 (0) This backup set is the backup set just made, so will not be deleted.
+0412.552 (0) Examining (for databases) backup set with group_id=0, nonce=d37d143d0dd4, datestamp=1729613008 (Oct 22 2024 16:03:28)
+0412.552 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0412.554 (0) Examining (for databases) backup set with group_id=0, nonce=0cd27dcf29b9, datestamp=1727991907 (Oct 03 2024 21:45:07)
+0412.554 (0) 1727991907: db: this set includes a database (backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-db.gz); db count is now 2
+0412.554 (0) 1727991907: db: over retain limit (2); will delete this database
+0415.388 (0) Google Drive: backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-db.gz: Deletion successful
+0415.409 (0) The time we have been running (415.4) is approaching the resumption interval (443) - increasing resumption interval to 446
+0415.417 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0415.420 (0) Number of backup sets in history: 3; groups (files): 1
+0415.428 (0) Examining (for files) backup set with nonce=24362ed94f56, datestamp=1729668962 (Oct 23 2024 07:36:02)
+0415.428 (0) This backup set is the backup set just made, so will not be deleted.
+0415.431 (0) This backup set is the backup set just made, so will not be deleted.
+0415.431 (0) This backup set is the backup set just made, so will not be deleted.
+0415.431 (0) This backup set is the backup set just made, so will not be deleted.
+0415.431 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0415.436 (0) Examining (for files) backup set with nonce=d37d143d0dd4, datestamp=1729613008 (Oct 22 2024 16:03:28)
+0415.436 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0415.437 (0) Examining (for files) backup set with nonce=0cd27dcf29b9, datestamp=1727991907 (Oct 03 2024 21:45:07)
+0415.437 (0) plugins: over retain limit (2); will delete this file entity
+0415.437 (0) themes: over retain limit (2); will delete this file entity
+0415.437 (0) uploads: over retain limit (2); will delete this file entity
+0415.437 (0) others: over retain limit (2); will delete this file entity
+0417.256 (0) Google Drive: backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-others.zip: Deletion successful
+0418.207 (0) Google Drive: backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-uploads.zip: Deletion successful
+0419.672 (0) Google Drive: backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-themes.zip: Deletion successful
+0421.783 (0) Google Drive: backup_2024-10-03-2145_HK_Translation_0cd27dcf29b9-plugins.zip: Deletion successful
+0421.801 (0) The time we have been running (421.8) is approaching the resumption interval (446) - increasing resumption interval to 452
+0421.808 (0) This backup set is now empty; will remove from history
+0421.811 (0) Deleting log file (log.0cd27dcf29b9.txt)
+0421.815 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0421.858 (0) Resume backup (24362ed94f56, 0): finish run
+0421.867 (0) Decremented the semaphore (fd) by 1
+0421.872 (0) Semaphore (fd) unlocked
+0421.875 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0421.893 (0) The backup succeeded and is now complete
+0421.897 (0) Deleting zip manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-plugins.zip.list.tmp)
+0421.900 (0) Deleting zip manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-themes.zip.list.tmp)
+0421.904 (0) Deleting zip manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-uploads.zip.list.tmp)
+0421.908 (0) Deleting zip manifest (backup_2024-10-23-0736_HK_Translation_24362ed94f56-others.zip.list.tmp)
+0421.913 (0) No email will/can be sent - the user has not configured an email address.
+0421.916 (0) La sauvegarde a réussi et est maintenant terminée

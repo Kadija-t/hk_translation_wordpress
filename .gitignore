@@ -1,0 +1,11 @@
+# Ignorer le dossier uploads
+wp-content/uploads/
+
+# Ignorer le fichier de configuration contenant des informations sensibles
+wp-config.php
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer le dossier de cache
+wp-content/cache/
